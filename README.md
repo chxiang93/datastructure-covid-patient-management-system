@@ -1,1 +1,2 @@
-# datastructure-covid-patient-management-system
+# Data Structure and Algorithm Subject Mini Project
+# Covid Patient Management System
